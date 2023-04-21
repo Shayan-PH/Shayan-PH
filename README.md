@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Shayan-PH
-- 👀 I’m interested in Linux 
-- 🌱 I’m currently learning Linux and web development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web development and Trading 
+- 🌱 I’m currently learning java script and web development 
 
 <!---
 Shayan-PH/Shayan-PH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
